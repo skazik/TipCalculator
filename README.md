@@ -12,15 +12,21 @@ Submitting Assignments: Assignments are submitted through Github using Git, chec
 User Stories:
 
 -User is displayed the tip of specified percentage for specified entered amount
+
 -User enters the total amount of the transaction
+
 -User selects one of three tip amounts (10%, 15%, 20%)
+
 -Upon selecting tip amount, formatted tip value is displayed
 
 
 Student Learning Actions:
 
 -Use RelativeLayout to position multiple views
+
 -Use EditText to accept text input from user
+
 -Interact with onClick handler for tip buttons
+
 -Find and modify the properties of a view object
 
