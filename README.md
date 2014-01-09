@@ -23,3 +23,4 @@ Use RelativeLayout to position multiple views
 Use EditText to accept text input from user
 Interact with onClick handler for tip buttons
 Find and modify the properties of a view object
+
